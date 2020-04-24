@@ -104,18 +104,12 @@ footer {
 */
 
   #starters  {
-    outline-style: solid; 
-    border-width: 2px;
-      border-style: solid;
-      border-color: black;
+    border: 2px solid black;
   }
 
 
  #desserts  {
-        outline-style: solid; 
-        border-width: 2px;
-          border-style: solid;
-          border-color: black
+    border: 2px solid black;
       
 
 
